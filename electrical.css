@@ -1,0 +1,54 @@
+  .d-block {
+        height: 400px;
+    }
+
+    #div.coll:hover {
+        box-shadow: 2px 4px 6px black;
+        border-radius: 15px;
+        padding: 0px;
+
+    }
+
+    .btn btn-sm btn:hover {
+        background-color: blue;
+
+    }
+
+    h3 {
+
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    }
+
+    p {
+
+        margin: auto;
+        max-width: 800px;
+
+        font-weight: 450;
+        font-size: large;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+
+    }
+
+    h3 {
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-decoration: underline black;
+        background-color: antiquewhite;
+    }
+
+    #list {
+
+
+        max-width: 835px;
+        margin: auto;
+    }
+
+    h4 {
+        max-width: 800px;
+        margin: auto;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }

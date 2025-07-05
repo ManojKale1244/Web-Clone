@@ -1,0 +1,29 @@
+ .d-block {
+        height: 400px;
+    }
+
+    #div.coll:hover {
+        box-shadow: 2px 4px 6px black;
+        border-radius: 15px;
+        padding: 0px;
+
+    }
+
+    .btn btn-sm btn:hover {
+        background-color: blue;
+
+    }
+
+    h3 {
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    p {
+       max-width: 800px;
+        margin: auto;
+        font-weight: 450;
+        font-size: large;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+    }

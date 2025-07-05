@@ -1,0 +1,28 @@
+  .d-block{
+    height: 400px;
+}
+#div.coll:hover{
+box-shadow: 2px 4px  6px black;
+border-radius: 15px;
+margin: 10px;
+
+}
+.btn btn-sm btn:hover{
+    background-color: blue;
+
+}
+b{
+ margin: auto;
+ text-shadow: 2px 4px 5px black;
+
+}
+nav{
+    margin-bottom: 2px;
+}
+
+photo{
+   padding: 5px;
+}
+div strong::first-letter{
+color: red;
+}
