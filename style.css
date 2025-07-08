@@ -30,6 +30,6 @@ body{
   overflow:auto;
 }
 #big{
-  position: static;
+  position: sticky;
   z-index: 10;
 }
