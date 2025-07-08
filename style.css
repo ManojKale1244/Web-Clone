@@ -29,3 +29,7 @@ color: red;
 body{
   overflow:auto;
 }
+#big{
+  position: static;
+  z-index: 10;
+}
