@@ -26,3 +26,6 @@ photo{
 div strong::first-letter{
 color: red;
 }
+body{
+  overflow:auto;
+}
